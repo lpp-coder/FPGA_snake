@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="vga_snake_top">
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_0jm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_0bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Mod4" CBX_FILE_NAME="lpm_divide_0bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_tim.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Div2" CBX_FILE_NAME="lpm_divide_akm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Div4" CBX_FILE_NAME="lpm_divide_hkm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_0bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Mod3" CBX_FILE_NAME="lpm_divide_0bm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|vga_pll:u_vga_pll|altpll:altpll_component" CBX_FILE_NAME="vga_pll_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Div3" CBX_FILE_NAME="lpm_divide_ekm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|vga_snake_top|seg_led:u_seg_led|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_0bm.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

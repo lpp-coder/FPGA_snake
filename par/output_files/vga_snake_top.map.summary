@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jan 12 14:20:00 2022
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : vga_snake_top
+Top-level Entity Name : vga_snake_top
+Family : Cyclone IV E
+Total logic elements : 3,009
+    Total combinational functions : 2,911
+    Dedicated logic registers : 485
+Total registers : 485
+Total pins : 40
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1

@@ -1,0 +1,17 @@
+
+State Machine - |vga_snake_top|remote_rcv:u_remote_rcv|cur_state
+Name cur_state.st_repeat_code cur_state.st_rec_data cur_state.st_start_judge cur_state.st_start_low_9ms cur_state.st_idle 
+cur_state.st_idle 0 0 0 0 0 
+cur_state.st_start_low_9ms 0 0 0 1 1 
+cur_state.st_start_judge 0 0 1 0 1 
+cur_state.st_rec_data 0 1 0 0 1 
+cur_state.st_repeat_code 1 0 0 0 1 
+
+State Machine - |vga_snake_top|vga_display:u_vga_display|cur_state
+Name cur_state.STATE_LEFT cur_state.STATE_DIE cur_state.STATE_UP cur_state.STATE_DOWN cur_state.STATE_RIGHT cur_state.STATE_START 
+cur_state.STATE_START 0 0 0 0 0 0 
+cur_state.STATE_RIGHT 0 0 0 0 1 1 
+cur_state.STATE_DOWN 0 0 0 1 0 1 
+cur_state.STATE_UP 0 0 1 0 0 1 
+cur_state.STATE_DIE 0 1 0 0 0 1 
+cur_state.STATE_LEFT 1 0 0 0 0 1 

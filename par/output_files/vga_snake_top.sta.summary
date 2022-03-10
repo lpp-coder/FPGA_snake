@@ -1,0 +1,149 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'seg_led:u_seg_led|dri_clk'
+Slack : -46.510
+TNS   : -869.740
+
+Type  : Slow 1200mV 85C Model Setup 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.319
+TNS   : -30.092
+
+Type  : Slow 1200mV 85C Model Setup 'remote_rcv:u_remote_rcv|div_clk'
+Slack : -3.375
+TNS   : -124.043
+
+Type  : Slow 1200mV 85C Model Setup 'sys_clk'
+Slack : -0.059
+TNS   : -0.059
+
+Type  : Slow 1200mV 85C Model Hold 'sys_clk'
+Slack : -0.119
+TNS   : -0.178
+
+Type  : Slow 1200mV 85C Model Hold 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.451
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'remote_rcv:u_remote_rcv|div_clk'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'seg_led:u_seg_led|dri_clk'
+Slack : 0.455
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'seg_led:u_seg_led|dri_clk'
+Slack : -1.487
+TNS   : -84.759
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'remote_rcv:u_remote_rcv|div_clk'
+Slack : -1.487
+TNS   : -72.863
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.783
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'seg_led:u_seg_led|dri_clk'
+Slack : -42.675
+TNS   : -798.242
+
+Type  : Slow 1200mV 0C Model Setup 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.660
+TNS   : -26.327
+
+Type  : Slow 1200mV 0C Model Setup 'remote_rcv:u_remote_rcv|div_clk'
+Slack : -3.093
+TNS   : -112.038
+
+Type  : Slow 1200mV 0C Model Setup 'sys_clk'
+Slack : -0.045
+TNS   : -0.045
+
+Type  : Slow 1200mV 0C Model Hold 'sys_clk'
+Slack : -0.089
+TNS   : -0.125
+
+Type  : Slow 1200mV 0C Model Hold 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'remote_rcv:u_remote_rcv|div_clk'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'seg_led:u_seg_led|dri_clk'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'seg_led:u_seg_led|dri_clk'
+Slack : -1.487
+TNS   : -84.759
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'remote_rcv:u_remote_rcv|div_clk'
+Slack : -1.487
+TNS   : -72.863
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.774
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.715
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'seg_led:u_seg_led|dri_clk'
+Slack : -19.428
+TNS   : -348.971
+
+Type  : Fast 1200mV 0C Model Setup 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.896
+TNS   : -10.615
+
+Type  : Fast 1200mV 0C Model Setup 'remote_rcv:u_remote_rcv|div_clk'
+Slack : -0.872
+TNS   : -26.283
+
+Type  : Fast 1200mV 0C Model Setup 'sys_clk'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'sys_clk'
+Slack : -0.213
+TNS   : -0.423
+
+Type  : Fast 1200mV 0C Model Hold 'seg_led:u_seg_led|dri_clk'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'remote_rcv:u_remote_rcv|div_clk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'seg_led:u_seg_led|dri_clk'
+Slack : -1.000
+TNS   : -57.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'remote_rcv:u_remote_rcv|div_clk'
+Slack : -1.000
+TNS   : -49.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.435
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u_vga_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.795
+TNS   : 0.000
+
+------------------------------------------------------------
