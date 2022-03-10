@@ -1,0 +1,4 @@
+module beep(
+   input en,
+   output beep_en
+);

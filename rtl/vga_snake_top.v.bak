@@ -1,0 +1,3 @@
+module vga_snake_top();
+
+endmodule 
